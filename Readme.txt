@@ -11,4 +11,4 @@ In order to be able to run this notebook, please follow these instruction:
 	- conda env create -f environment.yml
         - conda activate python_project
 
-4) run the jupyter notebook project.ipynb
+4) Run the jupyter notebook project.ipynb
