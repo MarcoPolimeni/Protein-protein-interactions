@@ -1,4 +1,4 @@
-Installation
+Instructions
 
 In order to be able to run this notebook, please follow these instruction:
 
